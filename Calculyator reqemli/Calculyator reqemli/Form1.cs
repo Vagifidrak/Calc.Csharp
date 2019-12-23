@@ -12,6 +12,9 @@ namespace Calculyator_reqemli
 {
     public partial class CALC : Form
     {
+
+        double x, y;
+        string netice;
         public CALC()
         {
             InitializeComponent();
@@ -144,6 +147,67 @@ namespace Calculyator_reqemli
             if (Convert.ToDouble(textBox1.Text) > 0) {
                 textBox1.Text = textBox1.Text.Remove(textBox1.Text.Length - 1, 1);
             };
+        }
+        private void Button11_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "0";
+        }
+
+        private void Button15_Click(object sender, EventArgs e)
+        {
+            y = Convert.ToDouble(textBox1.Text);
+            if (netice == "+")
+            {
+                textBox1.Text = Convert.ToString(x + y);
+                label1.Text = "";
+            }
+            if (netice == "-")
+            {
+                textBox1.Text = Convert.ToString(x - y);
+                label1.Text = "";
+            }
+            if (netice == "*")
+            {
+                textBox1.Text = Convert.ToString(x * y);
+                label1.Text = "";
+            }
+            if (netice == "/")
+            {
+                textBox1.Text = Convert.ToString(x / y);
+                label1.Text = "";
+            }
+        }
+
+        private void Button13_Click(object sender, EventArgs e)
+        {
+            x = Convert.ToDouble(textBox1.Text);
+            label1.Text = textBox1.Text + "-";
+            netice = "-";
+            textBox1.Text = "0";
+        }
+
+        private void Button14_Click(object sender, EventArgs e)
+        {
+            x = Convert.ToDouble(textBox1.Text);
+            label1.Text = textBox1.Text + "*";
+            netice = "*";
+            textBox1.Text = "0";
+        }
+
+        private void Button16_Click(object sender, EventArgs e)
+        {
+            x = Convert.ToDouble(textBox1.Text);
+            label1.Text = textBox1.Text + "/";
+            netice = "/";
+            textBox1.Text = "0";
+        }
+
+        private void Button12_Click(object sender, EventArgs e)
+        {
+           x = Convert.ToDouble(textBox1.Text);
+            label1.Text = textBox1.Text + "+";
+            netice = "+";
+            textBox1.Text = "0";
         }
     }
 }

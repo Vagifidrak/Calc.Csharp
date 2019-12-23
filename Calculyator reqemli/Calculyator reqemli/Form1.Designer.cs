@@ -203,6 +203,7 @@
             this.button11.TabIndex = 11;
             this.button11.Text = "C";
             this.button11.UseVisualStyleBackColor = false;
+            this.button11.Click += new System.EventHandler(this.Button11_Click);
             // 
             // button12
             // 
@@ -215,6 +216,7 @@
             this.button12.TabIndex = 12;
             this.button12.Text = "+";
             this.button12.UseVisualStyleBackColor = false;
+            this.button12.Click += new System.EventHandler(this.Button12_Click);
             // 
             // button13
             // 
@@ -227,6 +229,7 @@
             this.button13.TabIndex = 13;
             this.button13.Text = "-";
             this.button13.UseVisualStyleBackColor = false;
+            this.button13.Click += new System.EventHandler(this.Button13_Click);
             // 
             // button14
             // 
@@ -239,10 +242,11 @@
             this.button14.TabIndex = 14;
             this.button14.Text = "*";
             this.button14.UseVisualStyleBackColor = false;
+            this.button14.Click += new System.EventHandler(this.Button14_Click);
             // 
             // button15
             // 
-            this.button15.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.button15.BackColor = System.Drawing.Color.LightCoral;
             this.button15.Font = new System.Drawing.Font("Microsoft Sans Serif", 19F);
             this.button15.ForeColor = System.Drawing.Color.OldLace;
             this.button15.Location = new System.Drawing.Point(131, 369);
@@ -251,6 +255,7 @@
             this.button15.TabIndex = 15;
             this.button15.Text = "=";
             this.button15.UseVisualStyleBackColor = false;
+            this.button15.Click += new System.EventHandler(this.Button15_Click);
             // 
             // button16
             // 
@@ -263,6 +268,7 @@
             this.button16.TabIndex = 16;
             this.button16.Text = "/";
             this.button16.UseVisualStyleBackColor = false;
+            this.button16.Click += new System.EventHandler(this.Button16_Click);
             // 
             // button17
             // 
@@ -296,9 +302,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.label1.Location = new System.Drawing.Point(23, 92);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(46, 17);
+            this.label1.Size = new System.Drawing.Size(77, 17);
             this.label1.TabIndex = 19;
-            this.label1.Text = "label1";
+            this.label1.Text = "hesablama";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // CALC

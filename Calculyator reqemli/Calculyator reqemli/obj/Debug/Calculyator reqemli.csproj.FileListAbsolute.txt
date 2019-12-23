@@ -7,3 +7,13 @@ c:\users\1111\documents\visual studio 2012\Projects\Calculyator reqemli\Calculya
 c:\users\1111\documents\visual studio 2012\Projects\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator reqemli.exe
 c:\users\1111\documents\visual studio 2012\Projects\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator reqemli.pdb
 C:\Users\1111\Documents\Visual Studio 2012\Projects\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator reqemli.csprojResolveAssemblyReference.cache
+C:\Users\Vaqif.Idrak\Desktop\Calculyator reqemli\Calculyator reqemli\bin\Debug\Calculyator reqemli.exe.config
+C:\Users\Vaqif.Idrak\Desktop\Calculyator reqemli\Calculyator reqemli\bin\Debug\Calculyator reqemli.exe
+C:\Users\Vaqif.Idrak\Desktop\Calculyator reqemli\Calculyator reqemli\bin\Debug\Calculyator reqemli.pdb
+C:\Users\Vaqif.Idrak\Desktop\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator reqemli.csprojAssemblyReference.cache
+C:\Users\Vaqif.Idrak\Desktop\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator_reqemli.CALC.resources
+C:\Users\Vaqif.Idrak\Desktop\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator_reqemli.Properties.Resources.resources
+C:\Users\Vaqif.Idrak\Desktop\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator reqemli.csproj.GenerateResource.cache
+C:\Users\Vaqif.Idrak\Desktop\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator reqemli.csproj.CoreCompileInputs.cache
+C:\Users\Vaqif.Idrak\Desktop\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator reqemli.exe
+C:\Users\Vaqif.Idrak\Desktop\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator reqemli.pdb

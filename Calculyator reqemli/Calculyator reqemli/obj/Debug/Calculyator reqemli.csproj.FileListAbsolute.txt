@@ -1,0 +1,9 @@
+c:\users\1111\documents\visual studio 2012\Projects\Calculyator reqemli\Calculyator reqemli\bin\Debug\Calculyator reqemli.exe.config
+c:\users\1111\documents\visual studio 2012\Projects\Calculyator reqemli\Calculyator reqemli\bin\Debug\Calculyator reqemli.exe
+c:\users\1111\documents\visual studio 2012\Projects\Calculyator reqemli\Calculyator reqemli\bin\Debug\Calculyator reqemli.pdb
+c:\users\1111\documents\visual studio 2012\Projects\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator_reqemli.CALC.resources
+c:\users\1111\documents\visual studio 2012\Projects\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator_reqemli.Properties.Resources.resources
+c:\users\1111\documents\visual studio 2012\Projects\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator reqemli.csproj.GenerateResource.Cache
+c:\users\1111\documents\visual studio 2012\Projects\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator reqemli.exe
+c:\users\1111\documents\visual studio 2012\Projects\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator reqemli.pdb
+C:\Users\1111\Documents\Visual Studio 2012\Projects\Calculyator reqemli\Calculyator reqemli\obj\Debug\Calculyator reqemli.csprojResolveAssemblyReference.cache
